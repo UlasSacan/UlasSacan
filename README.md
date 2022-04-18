@@ -2,7 +2,7 @@
 
 
 - 🔭 şu anda üzerinde çalışıyorum: https://Makeronik.com/
-- 🌱 şu anda öğreniyorum:
+- 🌱 şu anda öğreniyorum: Embedded System
 - 💬 bana sor
 - 📫 Bana nasıl ulaşılır:
 

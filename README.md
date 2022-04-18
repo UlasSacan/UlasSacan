@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**UlasSacan/UlasSacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 şu anda üzerinde çalışıyorum:
 - 🌱 şu anda öğreniyorum:

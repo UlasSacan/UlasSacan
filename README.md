@@ -11,7 +11,7 @@
 
 - 💬 Bana sor **c,c++,python,elektronik**
 
-- 📫 bana nasıl ulabilirsiniz **ulassacan@gmail.com**
+- 📫 bana nasıl ulaşabilirsiniz **ulassacan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

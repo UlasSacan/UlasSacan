@@ -1,17 +1,17 @@
 <h1 align="center">Merhabalar👋, Ben Ulaş</h1>
 <h3 align="center">Elektronik Yazılım Tutkunu Bir Gencim</h3>
 
-- 🔭 Şuan da üzerinde çalışıyorum [Makeronik](https://makeronik.com/)
+- 🔭 Şuan da üzerinde çalışıyorum: [Makeronik](https://makeronik.com/)
 
-- 🌱 Şuan Öğreniyorum **Embedded System**
+- 🌱 Şuan Öğreniyorum: **Embedded System**
 
 - 👨‍💻 Tüm projelerim şurada mevcut: [https://makeronik.com/](https://makeronik.com/)
 
 - 📝 düzenli olarak makaleler yazıyorum: [https://makeronik.com/](https://makeronik.com/)
 
-- 💬 Bana sor **c,c++,python,elektronik**
+- 💬 Bana sor: **c,c++,python,elektronik**
 
-- 📫 bana nasıl ulaşabilirsiniz **ulassacan@gmail.com**
+- 📫 bana nasıl ulaşabilirsiniz: **ulassacan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

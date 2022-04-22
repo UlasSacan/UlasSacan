@@ -3,7 +3,7 @@
 
 - 🔭 Şuan da üzerinde çalışıyorum: [Makeronik](https://makeronik.com/)
 
-- 🌱 Şuan Öğreniyorum: **Embedded System**
+- 🌱 Şuan Öğreniyorum: **Embedded Systems**
 
 - 👨‍💻 Tüm projelerim şurada mevcut: [https://makeronik.com/](https://makeronik.com/)
 

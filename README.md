@@ -1,5 +1,5 @@
 <h1 align="center">Merhabalar👋, I Ulaş</h1>
-<h3 align="center">Elektronik ve Yazılım Tutkunu Bir Gencim</h3>
+<h3 align="center">I am a young electronics and software enthusiast.</h3>
 
 - 🔭 I am currently working on: [Makeronik](https://makeronik.com/)
 

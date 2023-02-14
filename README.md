@@ -9,7 +9,7 @@
 
 - 📝 I write articles regularly: [https://makeronik.com/](https://makeronik.com/)
 
-- 💬 to me ask: **c,c++,python,elektronik**
+- 💬 to me ask: **Frontend**
 
 - 📫 how can you contact me: **ulassacan@gmail.com**
 

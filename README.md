@@ -1,7 +1,11 @@
 <h1 align="center">Hi👋, I Ulaş</h1>
 <h3 align="center">I am a young software enthusiast.</h3>
 
-<a href="https://discord.com/users/582584469542928384" title="Discord Account" rel="nofollow"><img src="https://camo.githubusercontent.com/f14f67e8817d184a52e524d2ab5b2446e56d2b5b54c61fc76a3e8f0fe8fe93c1/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f373532353631303333373735363737363131" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/582584469542928384" style="max-width: 100%;"> </a>
+<div align="center">
+ 
+[![Discord Presence](https://lanyard.cnrad.dev/api/582584469542928384)](https://discord.com/users/582584469542928384)
+</div>
+
 - 🔭 I am currently working on: [Makeronik](https://makeronik.com/)
 
 - 🌱I'm Learning Now: **Frontend**

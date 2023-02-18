@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on: [Makeronik](https://makeronik.com/)
 
-- 🌱I'm Learning Now: **Embedded Systems**
+- 🌱I'm Learning Now: **Frontend**
 
 - 👨‍💻 All my projects are available here: [https://makeronik.com/](https://makeronik.com/)
 

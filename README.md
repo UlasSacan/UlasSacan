@@ -11,7 +11,7 @@
 
 - 💬 to me ask: **Frontend**
 
-- 📫 how can you contact me: **ulassacan@gmail.com**
+- 📫 how can you contact me: ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

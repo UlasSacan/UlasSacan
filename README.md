@@ -1,11 +1,6 @@
 <h1 align="center">Hi👋, I Ulaş</h1>
 <h3 align="center">I am a young software enthusiast.</h3>
 
-<div align="center">
- 
-[![Discord Presence](https://lanyard.cnrad.dev/api/582584469542928384)](https://discord.com/users/582584469542928384)
-</div>
-
 - 🔭 I am currently working on: [Makeronik](https://makeronik.com/)
 
 - 🌱I'm Learning Now: **Frontend**
